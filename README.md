@@ -2,7 +2,7 @@
 
 **OmniMoCap-X** is the largest unified multimodal motion capture dataset for whole-body human motion generation, supporting 10 diverse tasks including T2M, M2D, S2G, HOI, HSI, and HHI.
 
-> Companion dataset for the paper: **"OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation"** (arXiv 2025)
+> Companion dataset for the paper: **"OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation"**
 
 <p align="center">
   <a href="https://arxiv.org/abs/2510.19789">📜 Paper</a> |

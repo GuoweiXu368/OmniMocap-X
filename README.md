@@ -31,7 +31,7 @@ We will release the dataset in **two phases** due to licensing constraints:
 
 ### ✅ Phase 1 (Coming Soon)
 - Processed **SMPL-X motion sequences** from datasets with **permissive licenses**
-- **Structured captions** (JSON/Text)
+- **Structured captions**
 - **Data loading & preprocessing scripts**
 
 ### 🔒 Phase 2 (Code Only)
